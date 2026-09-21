@@ -1,1 +1,5 @@
-
+NIST SP 800-41 Rev. 1 - https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=901083
+pfSense Documentation — Firewall - https://docs.netgate.com/pfsense/en/latest/firewall/index.html
+Linux Packet Filtering HOWTO (netfilter/iptables) - https://iptables.org/documentation/HOWTO/packet-filtering-HOWTO.html
+Cartilha de Segurança para Internet — CERT.br / CGI.br - https://cartilha.cert.br/
+pfSense — Basic Firewall Configuration Example - https://docs.netgate.com/pfsense/en/latest/recipes/example-basic-configuration.html
